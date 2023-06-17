@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neha Valeti</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehavaleti" alt="nehavaleti" /></a> </p>
 
 - 🔭 I’m currently working on **honing my skills in web development**
 
