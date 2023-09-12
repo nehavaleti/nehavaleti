@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on honing my skills in web development<br><br>🌱 I’m currently learning react js<br><br>👯 I’m looking to collaborate on webdevelopment projects<br><br>👨‍💻 All of my projects are available at https://github.com/nehavaleti<br><br>💬 Ask me about anything<br><br>📫 How to reach me nehavaleti01@gmail.com
+🔭 I’m currently working on honing my skills in web development and Data Science<br><br>🌱 I’m currently learning react js and started a udemy course on Natural Language Processing<br><br>👯 I’m looking to collaborate on Data Analysis projects as well as Web Development projects<br><br>👨‍💻 All of my projects are available at https://github.com/nehavaleti<br><br>💬 Ask me about anything<br><br>📫 How to reach me nehavaleti01@gmail.com
 
 
 # 💻 Tech Stack:
