@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Graduate Student Arizona State University, currently pursuing Data Science Analytics and Engineering<br><br>🌱 I’m currently exploring the field of Data Science and Python Programming<br><br>👯 I’m looking to collaborate on Data Sciecne related projects<br><br>👨‍💻 All of my projects are available at https://github.com/nehavaleti<br><br>💬 Ask me about anything<br><br>📫 How to reach me nehavaleti01@gmail.com
+🔭 I’m a Graduate Student Arizona State University, currently pursuing Data Science Analytics and Engineering<br><br>🌱 I’m currently exploring the field of Data Science and Python Programming<br><br>👯 I’m looking to collaborate on Data Sciecne related projects<br><br>👨‍💻 All of my projects are available at https://github.com/nehavaleti<br><br>💬 Ask me about anything<br><br>📫 How to reach me valetineha9@gmail.com
 
 
 # 💻 Tech Stack:
