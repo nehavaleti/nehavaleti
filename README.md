@@ -75,9 +75,9 @@ I am a **driven and analytical data enthusiast** passionate about transforming d
 ---
 
 ## 📈 GitHub Stats
-[![](https://visitcount.itsvg.in/api?id=nehavaleti&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![nehavaleti's Stats](https://github-readme-stats.vercel.app/api?username=nehavaleti&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![nehavaleti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nehavaleti&theme=tokyonight&hide_border=true)
+![nehavaleti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehavaleti&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ### ✨ "Turning Data into Decisions, and Ideas into Impact."
 
