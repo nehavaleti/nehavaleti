@@ -75,11 +75,10 @@ I am a **driven and analytical data enthusiast** passionate about transforming d
 ---
 
 ## 📈 GitHub Stats
-_(Keep your existing GitHub stats section here)_
+[![](https://visitcount.itsvg.in/api?id=nehavaleti&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✨ "Turning Data into Decisions, and Ideas into Impact."
 
-[![](https://visitcount.itsvg.in/api?id=nehavaleti&icon=0&color=0)](https://visitcount.itsvg.in)
 
