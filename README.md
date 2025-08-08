@@ -20,26 +20,84 @@ I am a **driven and analytical data enthusiast** passionate about transforming d
 
 ---
 
-## 💡 Featured Projects
-- **🔹 T&C Digest** | *GPT-4 Mini, Flask*  
-  Chrome extension summarizing terms & conditions using GPT-4 API, reducing reading time by **70%**.  
-  `#NLP #LLM #Hackathon`
+# 💡 Featured Projects  
 
-- **🔹 NYC Taxi Demand Prediction** | *Python, Scikit-learn, Tableau*  
-  Achieved **90% accuracy** using Random Forest & Linear Regression for optimized taxi allocation.  
-  `#PredictiveAnalytics #EDA`
+## 🔹 T&C Digest | *GPT-4 Mini, Flask*  
+![NLP](https://img.shields.io/badge/-NLP-blue) ![LLM](https://img.shields.io/badge/-LLM-orange) ![Hackathon](https://img.shields.io/badge/-Hackathon-success)  
+> **HackSoda’24 – 🥉 3rd Place (Online Safety Track)**  
+<details>
+<summary>📄 View Details</summary>
 
-- **🔹 Tea Leaf Disease Classification** | *PyTorch, MobileNetV2*  
-  Built an ensemble SVM & RF model with **95%+ accuracy** for plant disease detection.  
-  `#DeepLearning #ComputerVision`
+- Engineered a **Chrome Extension** leveraging GPT-4 Mini API to **summarize legal documents**, reducing reading time by **70%**.  
+- Built a **Flask backend** for instant processing and real-time delivery of simplified terms & conditions.  
+- Enhanced accessibility of legal content for non-expert users through concise, high-accuracy NLP pipelines.  
 
-- **🔹 [Coming Soon] Financial AI Agent**  
-  Developing a domain-specific LLM-powered agent for personalized financial insights using **RAG** and **Generative AI**.  
-  `#FinTech #LLM #RAG #AgenticAI`
+</details>
 
-- **🔹 BYU - Locating Bacterial Flagellar Motors 2025** | *Kaggle Competition*  
-  Participating in a cutting-edge bioinformatics challenge to detect and localize flagellar motors in 3D cryo-ET tomograms using advanced **ML** and **Computer Vision** techniques.  
-  `#Bioinformatics #ML #ComputerVision #Kaggle`
+---
+
+## 🔹 NYC Taxi Demand Prediction | *Python, Scikit-learn, Tableau*  
+![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-purple) ![EDA](https://img.shields.io/badge/-EDA-brightgreen)  
+<details>
+<summary>📄 View Details</summary>
+
+- Achieved **90% prediction accuracy** using Random Forest & Linear Regression to forecast taxi demand across NYC boroughs.  
+- Conducted **EDA** on millions of ride records to identify temporal & spatial demand patterns.  
+- Designed an **interactive Tableau dashboard** to optimize taxi allocation and reduce wait times.  
+
+</details>
+
+---
+
+## 🔹 Tea Leaf Disease Classification | *PyTorch, MobileNetV2*  
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-red) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue)  
+<details>
+<summary>📄 View Details</summary>
+
+- Developed an **ensemble model** (SVM + Random Forest) on MobileNetV2 features to achieve **95%+ accuracy**.  
+- Preprocessed large image datasets for model training and evaluation.  
+- Enabled **early disease detection** for improved crop yield and agricultural efficiency.  
+
+</details>
+
+---
+
+## 🔹 Real-Time Graph Analytics Pipeline | *Python, Kafka, Neo4j, Docker, Kubernetes*  
+![Streaming Data](https://img.shields.io/badge/-Streaming%20Data-ff69b4) ![Big Data](https://img.shields.io/badge/-Big%20Data-blueviolet)  
+<details>
+<summary>📄 View Details</summary>
+
+- Built a **real-time streaming pipeline** ingesting **500K+ urban transport edges** from NYC taxi trip data.  
+- Applied **PageRank** and **BFS algorithms** in Neo4j to detect high-impact traffic nodes.  
+- Maintained **95% system uptime** using containerized microservices orchestrated with Kubernetes.  
+
+</details>
+
+---
+
+## 🔹 LLM-Powered Book Recommendation Engine | *LangChain, GPT-4, FAISS, Gradio, ChromaDB*  
+![RAG](https://img.shields.io/badge/-RAG-yellow) ![Recommender Systems](https://img.shields.io/badge/-Recommender%20Systems-lightblue)  
+<details>
+<summary>📄 View Details</summary>
+
+- Designed a **RAG system** integrating GPT-4 for personalized book recommendations.  
+- Indexed **1,000+ books** using FAISS & ChromaDB, leveraging **emotion-driven embeddings** for contextual relevance.  
+- Increased recommendation relevance by **65%** via fine-tuned vector search and semantic filtering.  
+
+</details>
+
+---
+
+## 🔹 Customer Churn Analysis Dashboard | *Power BI, DAX*  
+![BI](https://img.shields.io/badge/-Business%20Intelligence-darkblue) ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-green)  
+<details>
+<summary>📄 View Details</summary>
+
+- Built an **interactive BI dashboard** to analyze churn trends in the telecom sector using DAX-calculated KPIs.  
+- Highlighted **at-risk customer segments** by contract type, payment method, and tenure.  
+- Provided **data-driven retention insights**, improving stakeholder decision-making.  
+
+</details>
 
 
 ➡️ *More projects on my [GitHub](https://github.com/nehavaleti?tab=repositories)*
@@ -59,12 +117,13 @@ I am a **driven and analytical data enthusiast** passionate about transforming d
 
 ---
 
-## 🌱 Currently Exploring & Building
-- **Agentic AI**: Designing autonomous AI agents capable of planning, reasoning, and dynamic decision-making.
-- **RAG (Retrieval-Augmented Generation)**: Enhancing LLMs with real-time knowledge retrieval for context-aware responses.
-- **Computer Vision**: Applying deep learning techniques by participating in Kaggle competitions, including bioinformatics challenges.
-- **Generative AI**: Diving into LLM fine-tuning, prompt engineering, and building innovative AI-driven solutions.
-- **Kubernetes + Kafka + Neo4j**: Developing scalable data processing pipelines as part of my graduate coursework (*CSE 511 Project*).
+## 🌱 Currently Exploring & Building  
+
+- **🤖 Agentic AI** – Architecting autonomous AI agents with **planning, reasoning, and adaptive decision-making** capabilities for real-world tasks.  
+- **📚 Retrieval-Augmented Generation (RAG)** – Advancing **context-aware LLM systems** by integrating real-time knowledge retrieval and semantic search.  
+- **🖼 Computer Vision & Bioinformatics** – Applying deep learning in **Kaggle competitions** to tackle medical imaging and bioinformatics challenges.  
+- **✨ Generative AI** – Experimenting with **LLM fine-tuning, prompt engineering, and multimodal AI** to deliver domain-specific solutions.  
+- **⚙️ Scalable Data Pipelines** – Building **Kubernetes + Kafka + Neo4j** pipelines for real-time graph analytics and complex query execution (*CSE 511 Project*).  
 
 ---
 
