@@ -16,7 +16,7 @@ I am a **driven and analytical data enthusiast** passionate about transforming d
 - 🎯 Actively seeking opportunities in **Data Science**, **ML Engineering**, and **AI Research**
 
 📂 **Portfolio & Projects**: [GitHub - nehavaleti](https://github.com/nehavaleti)  
-📨 **Contact**: nvaleti1@asu.edu, valetineha9@gmail.com | [LinkedIn](https://linkedin.com/in/nehavaleti/)
+📨 **Contact**: nvaleti1@asu.edu, nehavaleti14@gmail.com | [LinkedIn](https://linkedin.com/in/nehavaleti/)
 
 ---
 
