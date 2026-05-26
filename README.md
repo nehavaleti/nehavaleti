@@ -19,7 +19,7 @@ AI/ML engineer and data scientist with 1+ years building production systems, RAG
 
 - **Research (CoRAL Lab)** — Query-independent table transformation for LLM reasoning over structured data. Benchmarking Gemini 2.5, LLaMA, Qwen, DeepSeek. Paper under review at ACL ARR 2026: [arxiv.org/abs/2602.20017](https://arxiv.org/abs/2602.20017)
 - **Agentic AI & RAG** — Building autonomous agents with planning + retrieval-augmented generation for real-world tasks
-- **Kaggle** — Computer vision and bioinformatics competitions (medical imaging)
+
 
 ---
 
