@@ -32,7 +32,7 @@ Query-independent pipeline converting unstructured tables to SQL-ready formats. 
 
 ---
 
-### LLM-Powered Book Recommendation Engine
+### RAG-Based Semantic Book Recommendation system
 ![RAG](https://img.shields.io/badge/-RAG-7F77DD) ![LangChain](https://img.shields.io/badge/-LangChain-1D9E75) ![FAISS](https://img.shields.io/badge/-FAISS-378ADD)
 
 GPT-4 + FAISS/ChromaDB RAG system indexing 1,000+ books with emotion-driven embeddings. 90% user satisfaction, 65% cut in irrelevant recommendations.
