@@ -10,7 +10,7 @@
 
 AI/ML engineer and data scientist with 1+ years building production systems, RAG pipelines, NLP research, real-time data infrastructure, and cloud ML. Currently doing NLP research at ASU's CoRAL Lab and finishing my MS in May 2026. I build things that work at scale and write papers about why they work.
 
-| 1+ yrs production ML | 40% QA accuracy gain (research) | 500K+ edges processed (pipeline) | 1 paper under review (ACL ARR) |
+| 1+ yrs production ML | 4-8+ F1 points gain (research) | 500K+ edges processed (pipeline) | 1 paper under review (ACL ARR) |
 |:---:|:---:|:---:|:---:|
 
 ---
